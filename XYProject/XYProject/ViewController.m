@@ -20,6 +20,7 @@
     UIButton *button = [UIButton buttonWithType:UIButtonTypeContactAdd];
     button.frame = CGRectMake(100, 100, 100, 100);
     NSLog(@"456");
+    NSLog(@"123");
     [self.view addSubview:button];
 }
 
