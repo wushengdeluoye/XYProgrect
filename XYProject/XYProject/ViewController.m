@@ -27,6 +27,7 @@
     label.text = @"asdf";
     label.font = [UIFont systemFontOfSize:15];
     [self.view addSubview:label];
+    NSLog(@"793");
     [self.view addSubview:button];
 }
 
