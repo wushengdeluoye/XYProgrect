@@ -20,6 +20,13 @@
     // Do any additional setup after loading the view, typically from a nib.
     UIButton *button = [UIButton buttonWithType:UIButtonTypeContactAdd];
     button.frame = CGRectMake(100, 100, 100, 100);
+    NSLog(@"456");
+    NSLog(@"123");
+    NSLog(@"789");
+    UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 100, 50)];
+    label.text = @"asdf";
+    label.font = [UIFont systemFontOfSize:15];
+    [self.view addSubview:label];
     NSLog(@"793");
     [self.view addSubview:button];
 }
