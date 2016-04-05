@@ -32,6 +32,7 @@
     NSLog(@"zxY_160405_dev");
     NSLog(@"zxy_160405_asdf");
     NSLog(@"12345");
+    NSLog(@"asdfasdf");
     [self.view addSubview:button];
 }
 
