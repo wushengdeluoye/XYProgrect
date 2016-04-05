@@ -29,6 +29,7 @@
     [self.view addSubview:label];
     NSLog(@"793");
     NSLog(@"zxy_160404");
+    NSLog(@"zxY_160405_dev");
     [self.view addSubview:button];
 }
 
