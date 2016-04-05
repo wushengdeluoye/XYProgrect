@@ -28,6 +28,7 @@
     label.font = [UIFont systemFontOfSize:15];
     [self.view addSubview:label];
     NSLog(@"793");
+    NSLog(@"zxy_160404");
     [self.view addSubview:button];
 }
 
