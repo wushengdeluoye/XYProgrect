@@ -36,6 +36,7 @@
     [self.view addSubview:button];
     NSLog(@"asdfasdf");
     NSLog(@"asdfasdfasdfasd");
+    NSLog(@"1");
 }
 
 
